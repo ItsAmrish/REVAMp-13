@@ -1,0 +1,39 @@
+HTML
+
+	1. HTML - HyperText Markup Language
+	2. HTMl is used to create a structure and content of the page/website.
+	3. Emmet is a tool that is used to code more efficient using shortcuts
+		-> !
+		-> link:css
+		-> div.container
+		-> div
+		-> div.container#class1
+	4. !
+	5. <!doctype> <html> <head></head> <body></body> </html>
+	6. Head tag is a container of meta elements which is placed inside the <html> tag and before the <body> tag.
+	7. Body tag is a container of semantic elements which the content of the website are written here.
+	8. <html>, <head>, <body>
+	9. tags consist of open and closed angular brackets <> eg.<div> whereas elements are not and consists of attributes 
+
+
+
+CSS
+
+	1. CSS- Cascading Style Sheet
+	2. CSS is used to style the page/website.
+	3. link:css
+	4. font - it can be obtained from google fonts
+	   color - color: red (rgb, hsl, hex, color-name)
+	   image - height, width can be made.
+	   CDN - Content Delivery Network
+	5. font-family, color, background-color, background-image, <div>
+	6. background-image is used to place the image as the background whereas the <img/> tag is used to add image as a foreground image.
+	7. Layout is used for the arrangement of elements or tags in the website/page.
+		-> flex
+		-> flex-direction (flex-row or flex-col)
+		-> justify
+		-> items
+		-> gap and order
+	8. Tailwind CSS is framework that is used to style and make responsive website. It is mobile-first approach.
+	
+		
